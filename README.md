@@ -1,2 +1,2 @@
 # calculator-react.js
-A calculator powered with React.js
+A scientific calculator powered with React.js
